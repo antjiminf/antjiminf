@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Antonio+Jiménez!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">
   </a>
 </h1>
 
@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 <p align="center">
   Welcome! My name is Antonio Jiménez Infante. I am a Developer/Coder 🥷,
   <br>
-  <!-- <br>
-  🎓 Completed my masters degree from <a href="direccion didactica"> lo quesea</a>
-  <br> -->
   💻 I enjoy learning new technologies and frameworks.
   <br>
   🧑‍💼 I’m currently finishing my studies as Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a>
@@ -40,7 +37,7 @@ Here are some ideas to get you started:
  <!-- <a href="direccion de youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="direccion de discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:antoniojz1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!-- <a href="https://www.linkedin.com/in/rmohigefer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+ <a href="www.linkedin.com/in/antonio-jiménez-trabajo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
 
@@ -49,8 +46,8 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma,firebase,md" /><br>
-    <img src="https://skillicons.dev/icons?i=java,py,spring,idea,eclipse,hibernate,maven,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=java,py,spring,hibernate,postgres,mysql" />
 
   </a>
 </p>
@@ -58,7 +55,7 @@ Here are some ideas to get you started:
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,express,docker,fastapi,django,nestjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,docker,nestjs" />
   </a>
 </p>
 <hr>
