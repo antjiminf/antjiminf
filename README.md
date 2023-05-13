@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ProgramadorIV.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors">
-</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">
