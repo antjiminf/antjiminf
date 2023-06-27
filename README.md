@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   Welcome! My name is Antonio Jiménez Infante.🥷,
-  <br>
   💻 I enjoy learning new technologies and frameworks.
   <br>
   🧑‍💼 I studied at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a> a Higher Certificate Multi-platform Application Development (NFQ Level 6).
