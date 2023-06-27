@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Welcome! My name is Antonio Jiménez Infante. I am a Developer/Coder 🥷,
+  Welcome! My name is Antonio Jiménez Infante.🥷,
   <br>
   💻 I enjoy learning new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently finishing my studies as Higher Certificate Multi-platform Application Development (NFQ Level 6) at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a>
+  🧑‍💼 I studied at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a> a Higher Certificate Multi-platform Application Development (NFQ Level 6).
   <br>
 </p>
 
@@ -39,20 +39,19 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">🔥 Languages / Frameworks / Tools 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=java,py,spring,hibernate,postgres,mysql" />
-
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,flutter,dart" />
   </a>
 </p>
 <br>
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,docker,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,nestjs,py" />
   </a>
 </p>
 <hr>
