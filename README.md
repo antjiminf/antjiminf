@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  Welcome! My name is Antonio Jiménez Infante.🥷,
-  💻 I enjoy learning new technologies and frameworks.
+  Welcome! My name is Antonio Jiménez Infante.🥷
   <br>
-  🧑‍💼 I studied at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a> a Higher Certificate Multi-platform Application Development (NFQ Level 6).
+    Passionate about learning new technologies and frameworks.
+  <br>
+  🧑‍💼 Studied at <a href="https://triana.salesianos.edu/"> Salesianos Triana </a> a Higher Certificate Multi-platform Application Development (NFQ Level 6).
   <br>
 </p>
 
