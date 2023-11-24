@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/ProgramadorIV/ProgramadorIV/blob/output/github-contribution-grid-snake.gif">
@@ -74,4 +74,4 @@ Here are some ideas to get you started:
    <br>
 </p>
 
-<hr>
+<hr> -->
