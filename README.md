@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,nestjs,py" />
+    <img src="https://skillicons.dev/icons?i=swift,docker" />
   </a>
 </p>
 <hr>
