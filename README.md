@@ -22,7 +22,6 @@
  
 </div>
 
-<hr>
 <h2 align="center">🔥 Languages / Frameworks / Tools 🔥</h2>
 <br>
 <p align="center">
@@ -38,7 +37,6 @@
     <img src="https://skillicons.dev/icons?i=swift,docker" />
   </a>
 </p>
-<hr>
 
 <!-- <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
