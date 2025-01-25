@@ -24,19 +24,12 @@
 
 <h2 align="center">🔥 Languages / Frameworks / Tools 🔥</h2>
 <br>
-<!--<p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma" /><br>
     <img src="https://skillicons.dev/icons?i=swift,apple,java,spring,hibernate,postgres,mysql,flutter,dart" />
   </a>
-</p>-->
-<p align="center">
-  <a href="https://techicons.dev">
-    <img src="https://techicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma" /><br>
-    <img src="https://techicons.dev/icons?i=swift,apple,java,spring,hibernate,postgres,mysql,flutter,dart" />
-  </a>
 </p>
-
 <br>
 <h3 align="center">Learning</h3>
 <p align="center">
