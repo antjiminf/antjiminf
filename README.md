@@ -27,14 +27,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,js,angular,bootstrap,vscode,git,github,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=swift,xcode,java,spring,hibernate,postgres,mysql,flutter,dart" />
   </a>
 </p>
 <br>
 <h3 align="center">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,docker" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 
